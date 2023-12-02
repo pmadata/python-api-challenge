@@ -4,6 +4,7 @@
   ##  Analysis overview:
   ###  Temperature vs. Latitude Linear Regression Plot:
   **Discussion about the linear relationship:** As you get closer to the Equator line the Temperatures increase, showed by a negative relationship between Max Temp and Latitude in the North Hemisphere and a positive relationship between Max Temp and Latitute in the South Hemisphere.
+  
 ![image](https://github.com/pmadata/python-api-challenge/assets/143486132/f9a7e2f6-1087-4b24-82ec-579b4824e4b0)
 ![image](https://github.com/pmadata/python-api-challenge/assets/143486132/867c3f1c-a27a-41c3-a46c-f1ee49265814)
 
